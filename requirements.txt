@@ -1,3 +1,5 @@
 scikit-learn
 nltk
 sentence-transformers
+boto3
+ipykernel
